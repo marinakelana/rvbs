@@ -19,6 +19,7 @@
  <form action="pencarian.php" method="get" class="navbar-form navbar-right">
   <input type="text" class="form-control" name="keyword">
   <button class="btn btn-primary">Cari</button>
+</form>
 
 
     </div>
