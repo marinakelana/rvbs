@@ -17,7 +17,7 @@
       </ul>
   
  <form action="pencarian.php" method="get" class="navbar-form navbar-right">
-  <input type="text" class="form-control" name="keyword">
+  <input type="text" class="form-control" name="keyword" placeholder="Masukkan Judul Buku">
   <button class="btn btn-primary">Cari</button>
 </form>
 
